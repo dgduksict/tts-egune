@@ -20,9 +20,18 @@ cd tts-egune
 
 2. Create a virtual environment:
 
+If on Linux or MacOS:
+
 ```bash
 python -m venv .venv
 source .venv/bin/activate
+```
+
+On Windows:
+
+```bash
+python -m venv .venv
+.venv\Scripts\Activate.ps1
 ```
 
 3. Install dependencies:
