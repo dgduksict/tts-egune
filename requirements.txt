@@ -4,6 +4,7 @@ torch
 torchaudio
 torchvision
 
+python-dotenv
 librosa
 scipy
 numpy
