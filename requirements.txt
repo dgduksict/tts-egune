@@ -16,5 +16,3 @@ scikit-learn
 
 datasets
 huggingface-hub
-huggingface-datasets
-
