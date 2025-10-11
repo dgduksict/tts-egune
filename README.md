@@ -42,6 +42,10 @@ huggingface-cli login
 Run the following script
 
 ```bash
+python setup.py
+```
+
+```bash
 python finetune.py
 ```
 
