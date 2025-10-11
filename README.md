@@ -1,5 +1,7 @@
 # For Egune Task
 
+## Introduction
+
 I (Duke) made this project to finetune TTS and STT models on a Mongolian Dataset.
 
 ## Features
@@ -11,14 +13,14 @@ I (Duke) made this project to finetune TTS and STT models on a Mongolian Dataset
 
 ## Installation
 
-1. Clone the repo:
+### Step 1. Clone the repo:
 
 ```bash
 git clone https://github.com/dgduksict/tts-egune.git
 cd tts-egune
 ```
 
-2. Create a virtual environment:
+### Step 2. Create a virtual environment:
 
 If on Linux or MacOS:
 
@@ -34,13 +36,13 @@ python -m venv .venv
 .venv\Scripts\Activate.ps1
 ```
 
-3. Install dependencies:
+### Step 3. Install dependencies:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-4. Log in to Hugging Face Hub:
+### Step 4. Log in to Hugging Face Hub:
 
 ```bash
 huggingface-cli login
