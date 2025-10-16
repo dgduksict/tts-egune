@@ -3,6 +3,10 @@ jupyter
 torch
 torchaudio
 torchvision
+TTS==0.22.0
+
+datasets==2.14.0
+huggingface-hub
 
 python-dotenv
 librosa
@@ -13,6 +17,3 @@ sounddevice
 pydub
 matplotlib
 scikit-learn
-
-datasets
-huggingface-hub
